@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    zskpoznan
+    zskpoznan.zsk.poznan.pl
 </body>
 </html>
